@@ -153,3 +153,7 @@ The Voter registration database is freely available for download [here](https://
 ### West Virginia 
 ### Wisconsin 
 ### Wyoming
+
+### Washington DC
+
+Available on [this GitHub repository](https://github.com/ajschumacher/dc_voter_reg).
