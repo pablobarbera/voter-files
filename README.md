@@ -8,10 +8,15 @@ This repository contains a set of python and R scripts to parse voting registrat
 - `last_name`
 - `birth_date`
 - `gender`
-- `turnout2012`
 - `turnout2008`
-- `party_affiliation_2012`
+- `turnout2010`
+- `turnout2012`
+- `turnout2014`
 - `party_affiliation_2008`
+- `party_affiliation_2010`
+- `party_affiliation_2012`
+- `party_affiliation_2014`
+- `party_affiliation` (current)
 - `residential_address`
 - `zipcode`
 
