@@ -19,14 +19,17 @@ This repository contains a set of python and R scripts to parse voting registrat
 - `party_affiliation` (current)
 - `residential_address`
 - `zipcode`
+- `race`, `ethnicity` (in Florida and North Carolina)
 
-When any of these variables is not available, that column will be empty. The idea is to be able to merge all these files if so desired.
+When any of these variables is not available, that column will be left empty (`NA`). The idea is to be able to easily merge all these files if so desired.
 
 Pull requests, comments, and suggestions are very welcome!
 
 ## Availability of voter files across states
 
-The following lists contains details about if/where voting registration records for each state are available, how much it would cost to obtain them, and other details.
+The following lists contains details about if/where voting registration records for each state are available, how much it would cost to obtain them, and other details. (I will expand this list over the next few months.)
+
+To be clear: this repository does __NOT__ contain any data.
 
 Classification:
 
