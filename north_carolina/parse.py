@@ -131,11 +131,15 @@ for row in reader:
     turnout2012 = 1 if '11/06/2012' in votes else 0
     turnout2014 = 1 if '11/04/2014' in votes else 0
     address = row[13].strip() + ' ' + row[14].strip() + ' ' + row[15].strip()
-    values = [voterid, row[10].strip(), row[11].strip(), row[9].strip(), 
-        str(2013 - int(row[29])), 
-        row[28], turnout2008, turnout2010, turnout2012, "NA",
-        "NA", "NA", "NA", "NA", row[27], address, row[16],
-        row[25].strip(), row[26].strip()]
+    try:
+        values = [voterid, row[10].strip(), row[11].strip(), row[9].strip(), 
+            str(2013 - int(row[29])), 
+            row[28], turnout2008, turnout2010, turnout2012, "NA",
+            "NA", "NA", "NA", "NA", row[27], address, row[16],
+            row[25].strip(), row[26].strip()]
+    except:
+        print 'Error'
+        continue
     county = row[1]
     data[county].append(values)
 
