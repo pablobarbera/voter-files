@@ -117,13 +117,14 @@ The voter file is available online [here](http://nvsos.gov/index.aspx?page=332),
 ### New Mexico 
 ### New York 
 
-https://github.com/civic-data/NYS-Voter-File
+- https://github.com/civic-data/NYS-Voter-File
+- https://github.com/sajacy/nys-voters
 
 ### North Carolina 
 
-https://github.com/offensivepolitics/wake-county-voter-file-analysis
-http://dl.ncsbe.gov/
-http://dl.ncsbe.gov/index.html
+- https://github.com/offensivepolitics/wake-county-voter-file-analysis
+- http://dl.ncsbe.gov/
+- http://dl.ncsbe.gov/index.html
 
 ### North Dakota 
 ### :smile: Ohio 
