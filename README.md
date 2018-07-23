@@ -162,7 +162,10 @@ The voter file can be requested [here](http://elections.utah.gov/voterdatabase) 
 The Voter registration database is freely available for download [here](https://www.sos.wa.gov/elections/vrdb-download-form.aspx). A list of database fields can be found [here](http://www.sos.wa.gov/_assets/elections/VRDBDatabaseFields.pdf).
 
 ### West Virginia 
-### Wisconsin 
+### :money_with_wings: Wisconsin
+
+Voter files (sliced various ways, etc.) can be requested via an [online system](https://badgervoters.wi.gov/) ([documentation](https://elections.wi.gov/clerks/svrs/voter-data)) for $25 plus $5 per thousand voters, up to a maximum cost of $12,500.
+
 ### Wyoming
 
 ### Washington DC
