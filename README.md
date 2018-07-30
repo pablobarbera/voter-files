@@ -115,7 +115,11 @@ The voter file is available online [here](http://nvsos.gov/index.aspx?page=332),
  I also found [this github repo](https://github.com/pwolanin/import-voters) with PHP scripts to parse these files.
 
 ### New Mexico 
-### New York 
+### :smile: New York
+
+There's an [online form to request voter registration data](http://form.jotform.us/form/50913672751154), documented on their [FOIL page](https://www.elections.ny.gov/FoilRequests.html). There's no cost, and data is sent on CD via USPS, arriving in about a week.
+
+Repos on working with New York voter files:
 
 - https://github.com/civic-data/NYS-Voter-File
 - https://github.com/sajacy/nys-voters
