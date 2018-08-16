@@ -83,7 +83,10 @@ Voter history files are freely available [here](http://elections.sos.ga.gov/Elec
 ### Illinois 
 ### Indiana 
 ### Iowa 
-### Kansas 
+### :money_with_wings: Kansas 
+
+Voter files can be requested from the [Office of the Secretary of State](http://www.kssos.org/elections/elections_registration.html) using the form [here](http://www.kssos.org/forms/elections/CVR.pdf). The full state costs $200 with additional costs for other options and delivery is by CD or email, depending on the request. 
+
 ### Kentucky 
 
 I also found [this github repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
