@@ -85,6 +85,9 @@ The Idaho voter file is available through a public records request for non-comme
 > "Idaho law requires the Secretary of State’s office to provide this information in response to public records requests."
 
 ### Illinois 
+
+Illinois makes their voter information available via paper medium "for election, scholarly, journalistic, political or governmental purposes"[1](https://www.cookcountyclerk.com/service/registration-file-requests) Digital records are available to political organizations that complete a [D-1 Statement of Organization](https://www.elections.il.gov/downloads/campaigndisclosure/pdf/d1.pdf).
+
 ### Indiana 
 ### Iowa 
 ### :money_with_wings: Kansas 
