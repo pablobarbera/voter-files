@@ -80,7 +80,14 @@ Voter history files are freely available [here](http://elections.sos.ga.gov/Elec
 
 ### Hawaii 
 ### Idaho 
+
+The Idaho voter file is available through a public records request for non-commercial purposes. The Secratary of State provides the following statement on [their FAQ](https://idahovotes.gov/faq/):
+> "Idaho law requires the Secretary of State’s office to provide this information in response to public records requests."
+
 ### Illinois 
+
+Illinois makes their voter information available via paper medium "for election, scholarly, journalistic, political or governmental purposes"[1](https://www.cookcountyclerk.com/service/registration-file-requests) Digital records are available to political organizations that complete a [D-1 Statement of Organization](https://www.elections.il.gov/downloads/campaigndisclosure/pdf/d1.pdf).
+
 ### Indiana 
 ### Iowa 
 ### :money_with_wings: Kansas 
@@ -168,7 +175,11 @@ The voter file can be requested [here](http://elections.utah.gov/voterdatabase) 
 
 The Voter registration database is freely available for download [here](https://www.sos.wa.gov/elections/vrdb-download-form.aspx). A list of database fields can be found [here](http://www.sos.wa.gov/_assets/elections/VRDBDatabaseFields.pdf).
 
-### West Virginia 
+### :money_with_wings: West Virginia 
+
+Voter files can be requested in various ways by filling [out a form](https://sos.wv.gov/FormSearch/Elections/Informational/voter%20data%20request%20071213.pdf) and returning it to the West Virginia's Secratary of State's office via fax, email, or mail.  
+The exports come in a variety of options including the statewide voter registration list for $500 and the master voter history list for $500. 
+
 ### :money_with_wings: Wisconsin
 
 Voter files (sliced various ways, etc.) can be requested via an [online system](https://badgervoters.wi.gov/) ([documentation](https://elections.wi.gov/clerks/svrs/voter-data)) for $25 plus $5 per thousand voters, up to a maximum cost of $12,500.
