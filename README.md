@@ -80,6 +80,10 @@ Voter history files are freely available [here](http://elections.sos.ga.gov/Elec
 
 ### Hawaii 
 ### Idaho 
+
+The Idaho voter file is available through a public records request for non-commercial purposes. The Secratary of State provides the following statement on [their FAQ](https://idahovotes.gov/faq/):
+> "Idaho law requires the Secretary of State’s office to provide this information in response to public records requests."
+
 ### Illinois 
 ### Indiana 
 ### Iowa 
