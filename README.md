@@ -46,9 +46,27 @@ I couldn't find anything on the website of the [Secretary of State](http://www.s
 
 It appears to be possible to [request it via email](http://www.elections.alaska.gov/er_lr.php). A list with contact information is [here](http://www.elections.alaska.gov/csm_contact_reo.php).
 
-### :disappointed: Arizona 
+### :money_with_wings: Arizona 
 
-I couldn't find anything on the website of the [Secretary of State](http://www.azsos.gov/).
+Costs used to be much higher, but are now somewhat lower due to a [lawsuit](https://www.azcentral.com/story/news/politics/arizona/2017/06/29/arizona-settles-lawsuit-voter-registration-data-lower-cost-project-vote/437629001/).
+
+Individual county recorders offices [are responsible](https://law.justia.com/codes/arizona/2011/title16/section16-166/) for maintaining the permenant voter files in AZ.
+
+- [Apache County](https://www.co.apache.az.us/wp-content/uploads/2018/08/Voter-Records-request-Public-Records.pdf)
+- [Cochise County](https://www.cochise.az.gov/recorder/downloads)
+- [Coconino County](http://coconino.az.gov/195/Elections) (Unclear if available)
+- [Gila County](http://www.gilacountyaz.gov/government/recorder/docs/Request%20for%20Information%202018.pdf)
+- [Graham County](https://www.graham.az.gov/DocumentCenter/View/593/Voter-Data-Request-PDF)
+- [Greenlee County](https://www.co.greenlee.az.us/recorder/pdfs/Public%20Records%20Request.pdf)
+- [La Paz County](http://www.co.la-paz.az.us/213/Recorder) (Unclear if available)
+- [Maricopa County](https://recorder.maricopa.gov/pdf/voterpublicdatarecordrequest.pdf)
+- [Mohave County](https://www.mohavecounty.us/default.aspx#) (Unclear if available)
+- [Navajo County](http://www.navajocountyaz.gov/Departments/Elections/Voter-Information) (Unclear if available)
+- [Pima County](http://webcms.pima.gov/government/elections_department/) (Unclear if available)
+- [Pinal County](http://www.pinalcountyaz.gov/elections/Documents/PublicRecordsRequest.pdf)
+- [Santa Cruz County](https://www.santacruzcountyaz.gov/287/Recorder) (Unclear if available)
+- [Yavapai County](http://www.yavapai.us/Portals/26/Forms/PublicDataRequestNon-Commercial.pdf)
+- [Yuma County](https://www.yumacountyaz.gov/government/recorder) (Unclear if available)
 
 ### :smile: Arkansas 
 
