@@ -106,7 +106,13 @@ Voter files can be requested from the [Office of the Secretary of State](http://
 I also found [this github repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
 
 
-### Louisiana 
+### :money_with_wings: Louisiana 
+
+Statewide lists are available to approved entities upon request at a cost not to exceed $5,000. Requests must be made through the Secratary of State's [web request application](https://voterportal.sos.la.gov/commercialrequests).
+
+[Document](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ConvertingTextFileToExcelFile.pdf) detailing how to convert the tab delimited file to an Excel document.
+Voter list [cost information](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/VoterListChargesAndInfo.pdf).
+
 ### Maine 
 ### Maryland 
 ### Massachusetts 
