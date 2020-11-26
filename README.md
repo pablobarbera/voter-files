@@ -106,8 +106,15 @@ The Idaho voter file is available through a public records request for non-comme
 
 Illinois makes their voter information available via paper medium "for election, scholarly, journalistic, political or governmental purposes"[1](https://www.cookcountyclerk.com/service/registration-file-requests) Digital records are available to political organizations that complete a [D-1 Statement of Organization](https://www.elections.il.gov/downloads/campaigndisclosure/pdf/d1.pdf).
 
-### Indiana 
-### Iowa 
+### :money_with_wings: Indiana 
+
+Indiana makes computerized access to the list available to political parties and media organizations, along with elected officials. A request must be made to the
+Indiana Election Division. The "election division shall charge each person [...] an annual subscription fee of five thousand dollars ($5,000)" More information can be found in the [Indiana Code](http://iga.in.gov/legislative/laws/2020/ic/titles/003#3-7-26.3-4).
+
+### :money_with_wings: Iowa 
+
+Individuals can request an Iowa statewide voter registration list through the Iowa Secratary of State [here](https://sos.iowa.gov/elections/voterreg/voterlistrequests.html). The statewide list with updates is provided at the cost of $1,500 a year.
+
 ### :money_with_wings: Kansas 
 
 Voter files can be requested from the [Office of the Secretary of State](http://www.kssos.org/elections/elections_registration.html) using the form [here](http://www.kssos.org/forms/elections/CVR.pdf). The full state costs $200 with additional costs for other options and delivery is by CD or email, depending on the request. 
@@ -117,7 +124,13 @@ Voter files can be requested from the [Office of the Secretary of State](http://
 I also found [this github repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
 
 
-### Louisiana 
+### :money_with_wings: Louisiana 
+
+Statewide lists are available to approved entities upon request at a cost not to exceed $5,000. Requests must be made through the Secratary of State's [web request application](https://voterportal.sos.la.gov/commercialrequests).
+
+[Document](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ConvertingTextFileToExcelFile.pdf) detailing how to convert the tab delimited file to an Excel document.
+Voter list [cost information](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/VoterListChargesAndInfo.pdf).
+
 ### Maine 
 ### Maryland 
 ### Massachusetts 
