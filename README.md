@@ -88,7 +88,11 @@ The Idaho voter file is available through a public records request for non-comme
 
 Illinois makes their voter information available via paper medium "for election, scholarly, journalistic, political or governmental purposes"[1](https://www.cookcountyclerk.com/service/registration-file-requests) Digital records are available to political organizations that complete a [D-1 Statement of Organization](https://www.elections.il.gov/downloads/campaigndisclosure/pdf/d1.pdf).
 
-### Indiana 
+### :money_with_wings: Indiana 
+
+Indiana makes computerized access to the list available to political parties and media organizations, along with elected officials. A request must be made to the
+Indiana Election Division. The "election division shall charge each person [...] an annual subscription fee of five thousand dollars ($5,000)" More information can be found in the [Indiana Code](http://iga.in.gov/legislative/laws/2020/ic/titles/003#3-7-26.3-4).
+
 ### Iowa 
 ### :money_with_wings: Kansas 
 
