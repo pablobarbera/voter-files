@@ -93,7 +93,10 @@ Illinois makes their voter information available via paper medium "for election,
 Indiana makes computerized access to the list available to political parties and media organizations, along with elected officials. A request must be made to the
 Indiana Election Division. The "election division shall charge each person [...] an annual subscription fee of five thousand dollars ($5,000)" More information can be found in the [Indiana Code](http://iga.in.gov/legislative/laws/2020/ic/titles/003#3-7-26.3-4).
 
-### Iowa 
+### :money_with_wings: Iowa 
+
+Individuals can request an Iowa statewide voter registration list through the Iowa Secratary of State [here](https://sos.iowa.gov/elections/voterreg/voterlistrequests.html). The statewide list with updates is provided at the cost of $1,500 a year.
+
 ### :money_with_wings: Kansas 
 
 Voter files can be requested from the [Office of the Secretary of State](http://www.kssos.org/elections/elections_registration.html) using the form [here](http://www.kssos.org/forms/elections/CVR.pdf). The full state costs $200 with additional costs for other options and delivery is by CD or email, depending on the request. 
