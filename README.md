@@ -70,7 +70,7 @@ Individual county recorders offices [are responsible](https://law.justia.com/cod
 
 ### :smile: Arkansas 
 
-The voter registration file can be requested using the form [here](https://www.sos.arkansas.gov/uploads/elections/Data%20Request%20Form.pdf), which has to be mailed along with $2.50 per file.
+The voter registration file can be requested using the form [here](https://www.sos.arkansas.gov/uploads/elections/Data%20Request%20Form.pdf), which has to be mailed along with $2.50 per file. A copy of the voter list appears to be also available online for free on [this website](https://arkvoters.com/download.html).
 
 ### California 
 
