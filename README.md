@@ -38,14 +38,13 @@ Classification:
 - :disappointed: No information online about how to acquire voter file
 
 
-### Alabama 
+### :money_with_wings: Alabama 
 
 The [Secretary of State](https://www.sos.alabama.gov/alabama-votes) links to an [interactive site](https://www.alabamainteractive.org/sos/voter/voterWelcome.action) that searches by multiple critiera and provides an instant price. As of March 2021, there were 3.5M active voters for a cost of $35K.
 
 ### Alaska 
 
 It appears to be possible to [request it via email](http://www.elections.alaska.gov/er_lr.php). A list with contact information is [here](http://www.elections.alaska.gov/csm_contact_reo.php).
-
 ### :money_with_wings: Arizona 
 
 Costs used to be much higher, but are now somewhat lower due to a [lawsuit](https://www.azcentral.com/story/news/politics/arizona/2017/06/29/arizona-settles-lawsuit-voter-registration-data-lower-cost-project-vote/437629001/).
@@ -86,7 +85,7 @@ The voter registry file can be purchased at a cost of $300 by contacting the Sec
 
 ### :smile: Delaware 
 
-The voter file can be requested using the form [here](http://elections.delaware.gov/candidate/pdfs/Statewide_CD_Order_Form.pdf), at a cost of $10 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://delawarevoters.info/downloads.html).
+The voter file can be requested using the form [here](https://elections.delaware.gov/services/candidate/pdfs/Statewide%20CD%20Order%20Form.pdf), at a cost of $10 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://delawarevoters.info/downloads.html).
 
 ### :smile: Florida 
 
