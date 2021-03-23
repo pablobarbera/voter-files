@@ -25,6 +25,11 @@ When any of these variables is not available, that column will be left empty (`N
 
 Pull requests, comments, and suggestions are very welcome!
 
+## Legal restrictions
+
+Most states have restrictions against commerical or non-political use. For a summary of usage restrictions, see NCSL's [Access To and Use Of Voter Registration Lists](https://www.ncsl.org/research/elections-and-campaigns/access-to-and-use-of-voter-registration-lists.aspx).
+
+
 ## Availability of voter files across states
 
 The following lists contains details about if/where voting registration records for each state are available, how much it would cost to obtain them, and other details. (I will expand this list over the next few months.)
