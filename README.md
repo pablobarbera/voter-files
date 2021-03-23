@@ -38,9 +38,9 @@ Classification:
 - :disappointed: No information online about how to acquire voter file
 
 
-### :disappointed: Alabama 
+### Alabama 
 
-I couldn't find anything on the website of the [Secretary of State](http://www.sos.alabama.gov/).
+The [Secretary of State](https://www.sos.alabama.gov/alabama-votes) links to an [interactive site](https://www.alabamainteractive.org/sos/voter/voterWelcome.action) that searches by multiple critiera and provides an instant price. As of March 2021, there were 3.5M active voters for a cost of $35K.
 
 ### Alaska 
 
