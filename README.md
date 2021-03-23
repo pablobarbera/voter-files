@@ -89,7 +89,7 @@ The voter file can be requested using the form [here](https://elections.delaware
 
 ### :smile: Florida 
 
-The voter file can be requested using the form [here](http://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-registration-file-request/), at a cost of $5 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://flvoters.com/downloads.html).
+The voter file can be requested using [voter extract disk request form](https://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-extract-disk-request/), and there is no fee for "this complimentary disk." A copy of the voter list appears to be also available online for free on [this website](http://flvoters.com/downloads.html).
 
 ### :money_with_wings: Georgia 
 
