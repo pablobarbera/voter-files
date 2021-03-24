@@ -1,6 +1,6 @@
 # voter-files
 
-This repository contains a set of python and R scripts to parse voting registration files in the United States into csv files with the same variables: 
+This repository contains a set of Python and R scripts to parse voting registration files in the United States into CSV files with the same variables: 
 
 - `voter_id`
 - `first_name`
@@ -25,6 +25,11 @@ When any of these variables is not available, that column will be left empty (`N
 
 Pull requests, comments, and suggestions are very welcome!
 
+## Legal restrictions
+
+Most states have restrictions against commercial or non-political use. For a summary of usage restrictions, see NCSL's [Access To and Use Of Voter Registration Lists](https://www.ncsl.org/research/elections-and-campaigns/access-to-and-use-of-voter-registration-lists.aspx).
+
+
 ## Availability of voter files across states
 
 The following lists contains details about if/where voting registration records for each state are available, how much it would cost to obtain them, and other details. (I will expand this list over the next few months.)
@@ -38,19 +43,18 @@ Classification:
 - :disappointed: No information online about how to acquire voter file
 
 
-### :disappointed: Alabama 
+### :money_with_wings: Alabama 
 
-I couldn't find anything on the website of the [Secretary of State](http://www.sos.alabama.gov/).
+The [Secretary of State](https://www.sos.alabama.gov/alabama-votes) links to an [interactive site](https://www.alabamainteractive.org/sos/voter/voterWelcome.action) that searches by multiple criteria and provides an instant price. As of March 2021, there were 3.5M active voters for a cost of $35K.
 
 ### Alaska 
 
 It appears to be possible to [request it via email](http://www.elections.alaska.gov/er_lr.php). A list with contact information is [here](http://www.elections.alaska.gov/csm_contact_reo.php).
-
 ### :money_with_wings: Arizona 
 
 Costs used to be much higher, but are now somewhat lower due to a [lawsuit](https://www.azcentral.com/story/news/politics/arizona/2017/06/29/arizona-settles-lawsuit-voter-registration-data-lower-cost-project-vote/437629001/).
 
-Individual county recorders offices [are responsible](https://law.justia.com/codes/arizona/2011/title16/section16-166/) for maintaining the permenant voter files in AZ.
+Individual county recorders offices [are responsible](https://law.justia.com/codes/arizona/2011/title16/section16-166/) for maintaining the permanent voter files in AZ.
 
 - [Apache County](https://www.co.apache.az.us/wp-content/uploads/2018/08/Voter-Records-request-Public-Records.pdf)
 - [Cochise County](https://www.cochise.az.gov/recorder/downloads)
@@ -78,28 +82,28 @@ http://www.sos.ca.gov/elections/contact/email-elections-division/
 
 ### :smile: Colorado 
 
-The registed voter list and voter history list can be requested using the form [here](http://www.sos.state.co.us/pubs/elections/forms/dataRequests.pdf), at a cost of [$50 each](http://www.sos.state.co.us/pubs/info_center/fees/elections.html). There appears to be a free copy of all the files on [this website](http://coloradovoters.info/download.html) as well.
+The registered voter list and voter history list can be requested using the form [here](http://www.sos.state.co.us/pubs/elections/forms/dataRequests.pdf), at a cost of [$50 each](http://www.sos.state.co.us/pubs/info_center/fees/elections.html). There appears to be a free copy of all the files on [this website](http://coloradovoters.info/download.html) as well.
 
 ### :smile: Connecticut 
 
-The voter registry file can be purchased at a cost of $300 by contacting the Secrety of State as detailed [here](http://www.ct.gov/sots/cwp/view.asp?a=3179&q=532994). A copy of the voter list appears to be also available online for free on [this website](http://connvoters.com/download.html).
+The voter registry file can be purchased at a cost of $300 by contacting the Secretary of State as detailed [here](http://www.ct.gov/sots/cwp/view.asp?a=3179&q=532994). A copy of the voter list appears to be also available online for free on [this website](http://connvoters.com/download.html).
 
 ### :smile: Delaware 
 
-The voter file can be requested using the form [here](http://elections.delaware.gov/candidate/pdfs/Statewide_CD_Order_Form.pdf), at a cost of $10 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://delawarevoters.info/downloads.html).
+The voter file can be requested using the form [here](https://elections.delaware.gov/services/candidate/pdfs/Statewide%20CD%20Order%20Form.pdf), at a cost of $10 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://delawarevoters.info/downloads.html).
 
 ### :smile: Florida 
 
-The voter file can be requested using the form [here](http://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-registration-file-request/), at a cost of $5 (in CD format). A copy of the voter list appears to be also available online for free on [this website](http://flvoters.com/downloads.html).
+The voter file can be requested using [voter extract disk request form](https://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-extract-disk-request/), and there is no fee for "this complimentary disk." A copy of the voter list appears to be also available online for free on [this website](http://flvoters.com/downloads.html).
 
 ### :money_with_wings: Georgia 
 
-Voter history files are freely available [here](http://elections.sos.ga.gov/Elections/voterhistory.do), but these do not include voters information. These need to be requested (and will be delivered on a CD) with this [form](http://sos.ga.gov/admin/uploads/Voter_List_Order_Form_june_2015v2.pdf) at a cost of $500. There's more information [here](http://sos.ga.gov/index.php/elections/order_voter_registration_lists_and_files). I also found [this github repo](https://github.com/stucka/voterhist) with python scripts to parse these files.
+Voter history files are freely available [here](http://elections.sos.ga.gov/Elections/voterhistory.do), but these do not include voters information. These need to be requested (and will be delivered on a CD) with this [form](http://sos.ga.gov/admin/uploads/Voter_List_Order_Form_june_2015v2.pdf) at a cost of $500. There's more information [here](http://sos.ga.gov/index.php/elections/order_voter_registration_lists_and_files). I also found [this GitHub repo](https://github.com/stucka/voterhist) with python scripts to parse these files.
 
 ### Hawaii 
 ### Idaho 
 
-The Idaho voter file is available through a public records request for non-commercial purposes. The Secratary of State provides the following statement on [their FAQ](https://idahovotes.gov/faq/):
+The Idaho voter file is available through a public records request for non-commercial purposes. The Secretary of State provides the following statement on [their FAQ](https://idahovotes.gov/faq/):
 > "Idaho law requires the Secretary of State’s office to provide this information in response to public records requests."
 
 ### Illinois 
@@ -121,12 +125,12 @@ Voter files can be requested from the [Office of the Secretary of State](http://
 
 ### Kentucky 
 
-I also found [this github repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
+I also found [this GitHub repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
 
 
 ### :money_with_wings: Louisiana 
 
-Statewide lists are available to approved entities upon request at a cost not to exceed $5,000. Requests must be made through the Secratary of State's [web request application](https://voterportal.sos.la.gov/commercialrequests).
+Statewide lists are available to approved entities upon request at a cost not to exceed $5,000. Requests must be made through the Secretary of State's [web request application](https://voterportal.sos.la.gov/commercialrequests).
 
 [Document](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ConvertingTextFileToExcelFile.pdf) detailing how to convert the tab delimited file to an Excel document.
 Voter list [cost information](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/VoterListChargesAndInfo.pdf).
@@ -153,7 +157,7 @@ The voter file is available online [here](http://nvsos.gov/index.aspx?page=332),
 ### New Hampshire 
 ### New Jersey 
 
- I also found [this github repo](https://github.com/pwolanin/import-voters) with PHP scripts to parse these files.
+ I also found [this GitHub repo](https://github.com/pwolanin/import-voters) with PHP scripts to parse these files.
 
 ### New Mexico 
 ### :smile: New York
@@ -208,7 +212,7 @@ The Voter registration database is freely available for download [here](https://
 
 ### :money_with_wings: West Virginia 
 
-Voter files can be requested in various ways by filling [out a form](https://sos.wv.gov/FormSearch/Elections/Informational/voter%20data%20request%20071213.pdf) and returning it to the West Virginia's Secratary of State's office via fax, email, or mail.  
+Voter files can be requested in various ways by filling [out a form](https://sos.wv.gov/FormSearch/Elections/Informational/voter%20data%20request%20071213.pdf) and returning it to the West Virginia's Secretary  of State's office via fax, email, or mail.  
 The exports come in a variety of options including the statewide voter registration list for $500 and the master voter history list for $500. 
 
 ### :money_with_wings: Wisconsin
